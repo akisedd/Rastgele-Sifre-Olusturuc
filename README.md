@@ -4,4 +4,4 @@
 
 Kurulum
 =
-    git clone https://github.com/CyberWorldTr/Rastgele-Sifre-Olusturucu.git
+    git clone https://github.com/akisedd/Rastgele-Sifre-Olusturuc.git
